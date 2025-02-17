@@ -27,7 +27,7 @@ class CardMoedaPrincipal extends StatelessWidget {
                   fontWeight: FontWeight.bold,
                 ),
               ),
-              SizedBox(height: 16),
+              const SizedBox(height: 16),
               Text(
                 valor,
                 style: const TextStyle(
